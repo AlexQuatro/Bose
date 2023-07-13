@@ -25,6 +25,7 @@ main {
   box-sizing: border-box;
   padding: 64px 0px;
   margin: 0;
+  background-color: #fff;
   background: url(./img/headphones_bg.jpg) center/cover no-repeat;
 }
 @media (max-width: 768px) {
