@@ -25,18 +25,18 @@ main {
   box-sizing: border-box;
   padding: 64px 0px;
   margin: 0;
-  background: url(img/headphones_bg.jpg) center/cover no-repeat;
+  background: url(/img/headphones_bg.jpg) center/cover no-repeat;
 }
 @media (max-width: 768px) {
   .header {
     padding: 44px 0px;
-    background: url(img/headphones_bg2.jpg) center/cover no-repeat;
+    background: url(/img/headphones_bg2.jpg) center/cover no-repeat;
   }
 }
 @media (max-width: 425px) {
   .header {
     padding: 30px 0px;
-    background: url(img/headphones_bg3.jpg) center/cover no-repeat;
+    background: url(/img/headphones_bg3.jpg) center/cover no-repeat;
   }
 }
 .header .container {
