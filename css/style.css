@@ -119,6 +119,9 @@ main {
   transform: translate(0);
   transition: transform 0.8s;
 }
+.burger__menu:target body{
+  overflow: hidden;
+}
 .burger__menu-top {
   display: flex;
   justify-content: space-between;
